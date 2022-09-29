@@ -9,6 +9,10 @@
     --background-big: #2F303A;
 }
 
+.main-studio{
+background-color: var(--button-bgc);
+}
+
 button{
     font-family: inherit;
     cursor: pointer;
@@ -161,7 +165,7 @@ ul{
 }
 
 .footer-contacts:hover,
-.header-contacts:focus{
+.fooret-contacts:focus{
     color: var(--hoover-color);
 }
 
