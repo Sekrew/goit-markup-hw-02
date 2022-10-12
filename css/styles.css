@@ -9,8 +9,12 @@
     --background-big: #2F303A;
 }
 
-.main-studio{
-background-color: var(--button-bgc);
+.solution-sec{
+    background-color: var(--background-big);
+}
+
+.team-sec{
+    background-color: var(--button-bgc);
 }
 
 button{
@@ -49,6 +53,10 @@ ul{
 
 .text-studio{
     color: var(--black);
+}
+
+.foot-studio{
+    color: var(--default-color);
 }
 
 .nav-link{
